@@ -5,6 +5,3 @@ def parrot(language="Squawk!", name="Pretty Bird!")
   puts "#{language}"
   "Squawk!"
 end
-
-parrot "Squawk" 
-parrot "Pretty Bird"
