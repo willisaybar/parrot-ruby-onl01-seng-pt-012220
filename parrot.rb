@@ -4,6 +4,7 @@
 def parrot(language="Squawk!", name="Pretty Bird!")
   puts "#{language}"
   "Squawk!"
+  puts "#Pretty Bird!"
 end
 
 parrot "Squawk" "Pretty Bird"
