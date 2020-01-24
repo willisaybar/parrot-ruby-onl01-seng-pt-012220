@@ -6,4 +6,5 @@ def parrot(language="Squawk!", name="Pretty Bird!")
   "Squawk!"
 end
 
-parrot "Squawk" "Pretty Bird"
+parrot "Squawk" 
+parrot "Pretty Bird"
