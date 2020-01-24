@@ -5,5 +5,7 @@ def parrot(bird="Pretty Bird", sound="Squawk!")
   puts "A parrot is a #{name}!"
 end
 
-squawk
+def greeting(name="Ruby programmer", language="Ruby")
+  puts "Hello, #{name}. We heard you are a great #{language} programmer."
+end
   
